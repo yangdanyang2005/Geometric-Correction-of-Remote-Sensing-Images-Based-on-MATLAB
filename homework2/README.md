@@ -1,4 +1,4 @@
-# MATLAB图像几何校正实验 README
+# MATLAB图像几何校正实验
 大二上 MATLAB遥感应用 课程作业2    
 
 ## 概述
