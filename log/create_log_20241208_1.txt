@@ -1,0 +1,29 @@
+实验日期：2024年12月08日
+实验时间：15时24分52秒
+实验编号：1
+--------------------------------------------------
+步骤 1-1: 使用 SURF 选取控制点, 耗时：0.50752秒
+SURF 匹配点已保存到文件：data/each_point/SURF_points_20241208_1.txt
+步骤 1-2: 使用 Harris 角点检测选择控制点, 耗时：0.26341秒
+Harris 匹配点已保存到文件：data/each_point/Harris_points_20241208_1.txt
+步骤 1-3: 使用 Shi-Tomasi 角点检测选择控制点, 耗时：0.49294秒
+Shi-Tomasi 匹配点已保存到文件：data/each_point/Shi_Tomasi_points_20241208_1.txt
+步骤 1-4: 使用 SIFT 选择控制点, 耗时：0.47436秒
+SIFT 匹配点已保存到文件：data/each_point/SIFT_points_20241208_1.txt
+步骤 1-5: 使用 ORB 选择控制点, 耗时：3.0462秒
+ORB 匹配点已保存到文件：data/each_point/ORB_points_20241208_1.txt
+步骤 1-6: 使用 FAST 选择控制点, 耗时：0.21982秒
+FAST 匹配点已保存到文件：data/each_point/FAST_points_20241208_1.txt
+--------------------------------------------------
+共计产生的控制点数量为：194
+[警告: 秩亏，秩 = 5，tol =  1.882971e+02。] 
+[> 位
+置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('homework3_picture_correction_create_point', 'D:\code\matlab_code\whu_3_tanxicheng\20240924tanxicheng_class\homework\homework3\homework3_picture_correction_create_point.m', 333)" style="font-weight:bold">homework3_picture_correction_create_point</a>
+(<a href="matlab: opentoline('D:\code\matlab_code\whu_3_tanxicheng\20240924tanxicheng_class\homework\homework3\homework3_picture_correction_create_point.m',333,0)">第 333 行</a>)
+] 
+[警告: 秩亏，秩 = 5，tol =  1.882971e+02。] 
+[> 位
+置：<a href="matlab:matlab.lang.internal.introspective.errorDocCallback('homework3_picture_correction_create_point', 'D:\code\matlab_code\whu_3_tanxicheng\20240924tanxicheng_class\homework\homework3\homework3_picture_correction_create_point.m', 334)" style="font-weight:bold">homework3_picture_correction_create_point</a>
+(<a href="matlab: opentoline('D:\code\matlab_code\whu_3_tanxicheng\20240924tanxicheng_class\homework\homework3\homework3_picture_correction_create_point.m',334,0)">第 334 行</a>)
+] 
+
