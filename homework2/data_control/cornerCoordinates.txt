@@ -1,0 +1,4 @@
+TopLeft     : (17, 534)
+TopRight    : (17, 2581)
+BottomLeft  : (1448, 13)
+BottomRight : (1448, 2060)
